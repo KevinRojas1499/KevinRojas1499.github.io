@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-06-01
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+We released our [code](https://github.com/KevinRojas1499/Diffuse-Everything) for [Diffuse Everything](https://www.arxiv.org/abs/2506.07903) our ICML 2025 paper!

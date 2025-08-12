@@ -29,7 +29,7 @@
       "url": "",
       "startDate": "2025-06",
       "endDate": "2025-08",
-      "summary": "Currently working on problems on Diffusion Language Models",
+      "summary": "Currently working on Reinforcement Learning problems on Diffusion Language Models",
       "highlights": ["Diffusion Models", "Discrete Diffusion", "Diffusion Language Models"]
     },
     {
@@ -108,13 +108,6 @@
       "awarder": "International Math Competition",
       "url": "",
       "summary": "Won a Bronce medal at International Math Competition (IMC)"
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
     }
   ],
   "skills": [

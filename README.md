@@ -24,9 +24,15 @@
 
 ## Important commands:
 
+```{bash}
+sudo pacman -S ruby
+sudo pacman -S ruby-bundler
+bundle exec jekyll serve
+```
+
 Serve:
 
-Prettier:  `npx prettier . --write`
+Prettier: `npx prettier . --write`
 
 ## User community
 

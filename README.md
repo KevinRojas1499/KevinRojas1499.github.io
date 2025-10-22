@@ -22,6 +22,12 @@
 
 </div>
 
+## Important commands:
+
+Serve:
+
+Prettier:  `npx prettier . --write`
+
 ## User community
 
 The vibrant community of **al-folio** users is growing!

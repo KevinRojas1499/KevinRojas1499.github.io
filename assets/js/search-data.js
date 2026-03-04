@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "I really like coding up research ideas. Here are some of the repos I&#39;ve created from scratch for my research papers",
+          description: "I really like coding up research ideas. Here are some of the repos I&#39;ve created for my research papers",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
@@ -409,6 +409,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-was-awarded-neurips-2025-top-reviewer",
           title: 'I was awarded Neurips 2025 top reviewer!',
+          description: "",
+          section: "News",},{id: "news-three-papers-accepted-to-iclr-gdpo-improving-cfg-for-masked-diffusion-and-what-does-cfg-do-in-masked-diffusion-see-you-in-rio",
+          title: 'Three papers accepted to ICLR! GDPO, Improving CFG for Masked Diffusion and What...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

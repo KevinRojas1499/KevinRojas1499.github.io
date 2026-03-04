@@ -6,7 +6,7 @@ subtitle: <a href='https://www.gatech.edu/'>Georgia Tech</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: KevinRojas.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Skiles 153,</p>
@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Kevin Rojas, a 3rd year Machine Learning Phd at Georgia Tech!
+I am Kevin Rojas, a 4th year Machine Learning Phd at Georgia Tech!
 
-I am interested in generative models. My current research focuses on studying diffusion models for multimodal data. I am fortunate to be advised by [Molei Tao](https://mtao8.math.gatech.edu/).
+I am interested in generative models. My current research focuses on studying generative modeling through diffusion/flow models for different data modalities. This includes [multimodal data](https://arxiv.org/abs/2506.07903) like text-image, tabular, etc. As well as diffusion language models, from improving [inference time methods](https://arxiv.org/pdf/2507.08965) as well as [post-training](https://arxiv.org/abs/2510.08554) through reinforcement learning. I am fortunate to be advised by [Molei Tao](https://mtao8.math.gatech.edu/).
 
 Feel free to reach out via email: first.last@gatech.edu!

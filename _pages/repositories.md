@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: I really like coding up research ideas. Here are some of the repos I've created from scratch for my research papers
+description: I really like coding up research ideas. Here are some of the repos I've created for my research papers
 nav: true
 nav_order: 4
 ---

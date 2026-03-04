@@ -27,7 +27,10 @@
 ```{bash}
 sudo pacman -S ruby
 sudo pacman -S ruby-bundler
+bundle install
 bundle exec jekyll serve
+
+npm install && npx prettier --version
 ```
 
 Serve:
